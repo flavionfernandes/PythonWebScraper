@@ -1,5 +1,3 @@
-#!/Users/Kate/AppData/Local/Programs/Python/Python35-32/python
-
 print("Content-type: text/html")
 print()
 
